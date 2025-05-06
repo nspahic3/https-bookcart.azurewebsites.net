@@ -1,5 +1,4 @@
 # https-bookcart.azurewebsites.net
-QA position - Atlantbh
 
 1. Technology Stack:
   Language: Python
